@@ -1,0 +1,93 @@
+session_config:
+  session_expiration_time: 60.0
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- inform
+- search_provider
+- bot_challenge
+- thanks
+- ask_is_bot:
+    triggers: utter_iamabot
+- out_of_scope
+- love
+- usergreet
+- appreciate
+entities:
+- bookName
+- bookAuthor
+- bookEdition
+- dueDate
+slots:
+  bookAuthor:
+    type: text
+  bookEdition:
+    type: text
+  bookName:
+    type: text
+  bookNumber:
+    type: text
+responses:
+  utter_greet:
+  - text: Hey! How are you?
+  utter_cheer_up:
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_how_can_i_help:
+  - text: Hello,I am library bot of your college.How can I help you?
+  - text: Hi, I am library bot. How can I help you?
+  utter_ask_bookAuthor:
+  - text: Can you provide the author name please?
+  utter_ask_bookEdition:
+  - text: Can you provide edition of the book you are looking for?
+  utter_ask_bookName:
+  - text: Can you provide the author please?
+  utter_goodbye:
+  - text: Bye
+  utter_default:
+  - text: Sorry. I didn't get you
+  utter_help_message:
+  - text: Can you please rephrase it
+  utter_iamabot:
+  - text: I am a bot, designed for library purpose.
+  utter_welcome:
+  - text: You are always welcome.
+  utter_response_greet:
+  - text: Okay. If you are in need of information about book.I am here to help you
+      out.
+  utter_denial:
+  - text: I am committed to my work.
+  - text: I have many other jobs to look at.
+  - text: I am not suppose to accept.
+  - text: You seem to be nice.But sorry I can't accept.
+  utter_thank:
+  - text: I am doing my duty.
+  - text: I am here to help you.
+  - text: Serving my purpose.
+  - text: Would love to help you out.
+  - text: Would like to hear more from you.
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_goodbye
+- utter_ask_bookAuthor
+- utter_ask_bookName
+- utter_ask_bookEdition
+- utter_default
+- utter_iamabot
+- action_book_search
+- action_reset_all_slots
+- utter_welcome
+- utter_response_greet
+- utter_how_can_i_help
+- utter_help_message
+forms:
+- book_form

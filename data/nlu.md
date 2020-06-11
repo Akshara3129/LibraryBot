@@ -1,0 +1,371 @@
+## intent:greet
+- hey
+- hello
+- hi
+- hola
+- good morning
+- good evening
+- hey there
+- hey buddy
+- hello pal
+- hey dude
+- Hi bot
+- Hey bot
+- good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hi
+
+## intent:usergreet
+- i am good
+- i am doing good
+- i am fine
+- i am okay
+- i am all right
+- pretty good
+- i feel fine
+- i am good enough
+- i feel so good today
+- i am feeling awesome
+- couldn't be better
+- i will be well
+- i feel comfortable
+- i feel pretty good
+- i'm fine
+- i'm okay
+- i'm doing good
+- i'm in a good mood
+- i am in good spirits
+- i am so gratified
+- i am cool
+- i am great
+- i am happy
+- much better
+- not too bad
+- nothing new
+- nothing special
+- same as usual
+- it feels good
+- happy
+- cool
+- am alright
+- am good
+- fine
+- good
+- okay
+- awesome
+- happy
+- nice
+
+## intent:thanks
+- thank you
+- thank you so much
+- thanks
+- thanks a lot
+- thank you very much
+- thank you for your response
+- thanks for spending time on me
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks pal
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- Bye
+- Bye!
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- see ya
+- bye bye
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:inform
+- [data structures](bookName)
+- [java](bookName)
+- [discrete mathematics](bookName)
+- [software engineering](bookName)
+- [python](bookName)
+- [operating system](bookName)
+- [engineering mathematics 1](bookName)
+- [engineering mathematics 2](bookName)
+- [engineering chemistry](bookName)
+- [engineering physics](bookName)
+- [distributed system](bookName)
+- [artificial intelligence](bookName)
+- [internet programming](bookName)
+- [mobile computing](bookName)
+- [patnaik](bookAuthor)
+- [robert martins](bookName)
+- [avi silberschatz](bookAuthor)
+- [rheema tereja](bookAuthor)
+- [mark allen weiss](bookAuthor)
+- [hermen schildt](bookAuthor)
+- [balaji](bookAuthor)
+- [9th Edition](bookEdition)
+- [8th Edition](bookEdition)
+- [7th Edition](bookEdition)
+- [6th Edition](bookEdition)
+- [5th Edition](bookEdition)
+- [4th Edition](bookEdition)
+- [3rd Edition](bookEdition)
+- [2nd Edition](bookEdition)
+- [1st Edition](bookEdition)
+
+## intent:search_provider
+- can i get [problem solving and python programming](bookName) book
+- can i get [programming in c](bookName) book
+- can i get [mobile computing](bookName) book
+- can i get [computer networks](bookName) book
+- can i get [digital principle and system design](bookName) book
+- can i get [theory of computation](bookName) book
+- can i get [geographic information system](bookName) book
+- is [data structures](bookName) book available
+- i need [problem solving and python programming](bookName) book
+- i need [programming in c](bookName) book
+- i need [mobile computing](bookName) book
+- i need [computer networks](bookName) book
+- i need [digital principle and system design](bookName) book
+- i need [theory of computation](bookName) book
+- i need [geographic inforamtion](bookName) book
+- i want [mobile computing](bookName) book
+- [data structures](bookName) book
+- it is [geographic information system](bookName)
+- is the book [programming in c](bookName) available now
+- can i get [problem solving and python programming](bookName) book
+- is [problem solving and python programming](bookName) book available
+- i need [problem solving and python programming](bookName) book
+- i want [problem solving and python programming](bookName) book
+- [problem solving and python programming](bookName) book
+- it is [problem aolving and python programming](bookName)
+- is the book [problem solving and python programming](bookName) available now
+- can i get [operating system](bookName) book
+- is [operating system](bookName) book available
+- i need [operating system](bookName) book
+- i want [operating system](bookName) book
+- [operating system](bookName) book
+- it is [operating system](bookName)
+- is the book [computer networks](bookName) available now
+- is [balagurusamy](bookAuthor) book on [programming in c](bookName) available now
+- is [sandhya mk](bookAuthor) book on [problem solving and python programming](bookName) available now
+- is [reema thareja](bookAuthor) book on [programming in c](bookName) available now
+- is [godse ap](bookAuthor) book on [microprocessor and microcontroller](bookName) available now
+- is [bagad vs](bookAuthor) book on [computer networks](bookName) available now
+- is [selva kumar](bookAuthor) book on [information retrieval](bookName) available now
+- is [krishna sankar](bookAuthor) book on [object oriented programming](bookName) available now
+- is [puntambekar](bookAuthor) book on [object oriented programming](bookName) available now
+- is [ashok n.kamthane](bookAuthor) book on [programming in c](bookName) available now
+- is [ajay mittal](bookAuthor) book on [programming in c](bookName) available now
+- is [jancy](bookAuthor) book on [computer architecture](bookName) available now
+- is [sudhakar](bookAuthor) book on [operating system](bookName) available now
+- is [reema thareja](bookAuthor) book on [programming in c](bookName) available now
+- is [ramesh babu](bookAuthor) book on [problem solving and python programming](bookName) available now
+- is [lakshmi](bookAuthor) book on [geographic information system](bookName) available now
+- is [patnaik](bookAuthor) book on [mobile computing](bookName) available now
+- is [lalitha](bookAuthor) book on [theory of computation](bookName) available now
+- is [programming in c](bookName) book by [ashok n.kamthane](bookAuthor) available now
+- can i have a [programming in c](bookName) book from library
+- can i have a [problem solving and python programming](bookName) book from library
+- can i have a [object oriented analysis and design](bookName) book from library
+- can i have a [computer networks](bookName) book from library
+- can i have a [digital principle and system design](bookName) book from library
+- can i have a [Theory of computation](bookName) book from library
+- can i have a [mobile computing](bookName) book from library
+- can i have a [information retrieval](bookName) book from library
+- - can i have a [programming in c](bookName) book from library
+- can i get [reema tareja](bookAuthor) book from library
+- can i get [problem solving and python programming](bookName) book by [sandhya mk](bookAuthor) now
+- can i get [programming in c](bookName) book by [reema thareja](bookAuthor) now
+- can i get [microprocessor and microcontroller](bookName) book by [godse ap](bookAuthor) now
+- can i get [computer networks](bookName) book by [bagad vs](bookAuthor) now
+- can i get [information retrieval](bookName) book by [selva kumar](bookAuthor) now
+- can i get [data structures](bookName) book by [puntambekar](bookAuthor) now
+- can i get [object oriented programming](bookName) book by [selva kumar](bookAuthor) now
+- can i get [object oriented programming](bookName) book by [krishna sankar](bookAuthor) now
+- can i get [digital principles and system design](bookName) book by [godse ap](bookAuthor) now
+- can i get [programming in c](bookName) book by [ashok n.kamtane](bookAuthor) now
+- can i get [programming in c](bookName) book by [ajay mittal](bookAuthor) now
+- can i get [computer architecture](bookName) book by [jancy](bookAuthor) now
+- can i get [operating system](bookName) book by [sudhakar](bookAuthor) now
+- can i get [programming in c](bookName) book by [balagurusamy](bookAuthor) now
+- can i get [problem solving and python programming](bookName) book by [ramesh babu](bookAuthor) now
+- can i get [geographic information system](bookName) book by [lakshmi](bookAuthor) now
+- can i get [mobile computing](bookName) book by [patnaik](bookAuthor) now
+- can i get [theory of computation](bookName) book by [lalitha](bookAuthor) now
+- i need a book [problem solving and python programming](bookName)
+- [sandhya mk](bookAuthor)
+- [reema thareja](bookAuthor)
+- [godse ap](bookAuthor)
+- [bagad vs](bookAuthor)
+- [selva kumar](bookAuthor)
+- [puntambekar](bookAuthor)
+- [selva kumar](bookAuthor)
+- [krishna sankar](bookAuthor)
+- [godse ap](bookAuthor)
+- [ashok n.kamtane](bookAuthor)
+- [ajay mittal](bookAuthor)
+- [jancy](bookAuthor)
+- [sudhakar](bookAuthor)
+- [balagurusamy](bookAuthor)
+- [ramesh babu](bookAuthor)
+- [lakshmi](bookAuthor)
+- [patnaik](bookAuthor)
+- [lalitha](bookAuthor)
+- is [2nd edition](bookEdition) of [problem solving and python programming](bookName) by [sandhya mk](bookAuthor) available now
+- can i get [1st edition](bookEdition) book by [godse ap](bookAuthor) on [microprocessor and microcontroller](bookName) available
+- [1st edition](bookEdition) book by [godse ap](bookAuthor) on [microprocessor and microcontroller](bookName)
+- [1st edition](bookEdition) book on [microprocessor and microcontroller](bookName) by [godse ap](bookAuthor)
+- can i get [data structures](bookName) book now
+- is [data structures](bookName) by [puntambekar](bookAuthor) available
+- is [object oriented programming](bookName) by [selva kumar](bookAuthor) available
+- can i have [object oriented programming](bookName) by [selva kumar](bookAuthor)
+- can i get [1st edition](bookEdition) [object oriented programming](bookName) by [selva kumar](bookAuthor)
+- can i get [1st edition](bookEdition) [object oriented programming](bookName) now  
+- can i get [object oriented programming](bookName) by [selva kumar](bookAuthor)
+- can i  get [data structures](bookName) by [puntambekar](bookAuthor)
+- is [data structures](bookName) by [puntambekar](bookAuthor)
+- is [4th edition](bookEdition) [data structures](bookName) book available
+- check if [4th edition](bookEdition) [data structures](bookName) book available
+- check for availability of [4th edition](bookEdition) [data structures](bookName) book
+- check for availability of [data structures](bookName) by [puntambekar](bookAuthor)
+- check for availability of [data structures](bookName)
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely/
+- yeah
+- si
+- ok
+- okay
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- not today
+- no thanks
+- no thank you
+- uh no
+- nope
+- do you have something else
+- no this does not work for me
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+##intent:out_of_scope
+- i need food
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurant
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- give me food
+- i want food
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- can you help me to build a bot
+
+##intent: love
+- i want to marry you
+- will you marry me
+- i am in love with you
+- i love you
+- i wish to marry you
+- i am interested in you
+- will you be my wife
+- i want you to be my love
+- will you be my love
+- i will love you
+- i have deep love for you
+- i will love you to the end of universe
+- i madly love you
+- i deeply love you
+- i sincerely love you
+- will you be my life partner
+- will you be my better half
+- will you spend rest of your life with me
+- i need life partner like you
+- i want to be your everything
+- will you be my everything
+- i will take good care of you
+
+##intent: appreciate
+- you helped me a lot
+- that was so nice of you
+- you are such a nice bot
+- your help meant a lot
+- you were so helpful
+- you reduced my load
+- you reduced my work pressure
+- you saved my time
+- you are good
+- you are sweet
+- you are nice
+- you helped a lot
+- your help means a lot
